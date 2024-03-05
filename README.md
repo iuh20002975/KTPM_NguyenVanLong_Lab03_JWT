@@ -1,5 +1,5 @@
 # KTPM_NguyenVanLong_Lab03_JWT
-![postman](https://github.com/iuh20002975/KTPM_NguyenVanLong_Lab03_JWT/assets/85395727/0065b0e8-18c9-40a2-b409-8de6407264da)
+![1](https://github.com/iuh20002975/KTPM_NguyenVanLong_Lab03_JWT/assets/85395727/214cd157-41a6-492f-8a58-0aa595682c9d)
 
 Register![register](https://github.com/iuh20002975/KTPM_NguyenVanLong_Lab03_JWT/assets/85395727/6640fdf4-d6be-4c04-b8a4-b1295fc246c0)
 
